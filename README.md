@@ -1,6 +1,6 @@
 Hello, Welcome to my repository.
 
-The projects shared here provide insight to some of the projects i have worked on as a data analyst and the insights i was able to gather on them.
+The projects shared provide insight to some of the analytics projects i have worked on as a data analyst and the insights i was able to gather on them.
 
 The first project gives an overview of all employees of an organisation and the different parameters used to generate useful insight on the total employees.
 
